@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "description": "Between life and death there is a library, and within that library, the shelves go on forever. Every book provides a chance to try another life you could have lived. A novel about regret, hope, and the power of choice.",
+    "category": "Story",
+    "available_quantity": 5,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780525559474-L.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "description": "A handbook of agile software craftsmanship. Learn to write code that is easy to read, maintain, and extend. Essential reading for every serious software developer.",
+    "category": "Tech",
+    "available_quantity": 8,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg"
+  },
+  {
+    "id": "3",
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "description": "From the Big Bang to black holes, Stephen Hawking explores the universe's biggest questions in clear, accessible language. A landmark volume in science writing.",
+    "category": "Science",
+    "available_quantity": 4,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780553380163-L.jpg"
+  },
+  {
+    "id": "4",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "description": "A magical fable about following your dreams. A young shepherd named Santiago travels from Spain to Egypt in search of treasure and discovers something far more valuable.",
+    "category": "Story",
+    "available_quantity": 7,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780062315007-L.jpg"
+  },
+  {
+    "id": "5",
+    "title": "The Pragmatic Programmer",
+    "author": "David Thomas, Andrew Hunt",
+    "description": "Your journey to mastery in software development. From personal responsibility and career development to architectural techniques for keeping your code flexible.",
+    "category": "Tech",
+    "available_quantity": 6,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780135957059-L.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "description": "A stunning journey through the universe with one of the greatest science communicators of all time. Explore the nature of life, consciousness, and the cosmos.",
+    "category": "Science",
+    "available_quantity": 3,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780345539434-L.jpg"
+  },
+  {
+    "id": "7",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A timeless classic about racial injustice and moral growth in the American South, told through the eyes of young Scout Finch. Winner of the Pulitzer Prize.",
+    "category": "Story",
+    "available_quantity": 9,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780061120084-L.jpg"
+  },
+  {
+    "id": "8",
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "description": "Discover the elegance hidden inside JavaScript. This book uncovers the beautiful, elegant, lightweight, and highly expressive language that lies within.",
+    "category": "Tech",
+    "available_quantity": 5,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780596517748-L.jpg"
+  },
+  {
+    "id": "9",
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "description": "Richard Dawkins's brilliant reformulation of the theory of natural selection. A revolutionary perspective on evolution, genes, and the nature of life.",
+    "category": "Science",
+    "available_quantity": 4,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780198788607-L.jpg"
+  },
+  {
+    "id": "10",
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian masterpiece about totalitarianism, surveillance, and the manipulation of truth. Orwell's vision remains as relevant and chilling as ever.",
+    "category": "Story",
+    "available_quantity": 6,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "description": "The big ideas behind reliable, scalable, and maintainable systems. A deep dive into databases, distributed systems, and modern data architecture.",
+    "category": "Tech",
+    "available_quantity": 7,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9781449373320-L.jpg"
+  },
+  {
+    "id": "12",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "description": "How did humans go from insignificant apes to rulers of the planet? A bold, wide-ranging exploration of our species' past, present, and future.",
+    "category": "Science",
+    "available_quantity": 8,
+    "image_url": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg"
+  }
+]
