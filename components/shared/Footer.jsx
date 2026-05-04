@@ -53,7 +53,7 @@ export default function Footer() {
                   </div>
                   <div>
                     <h3 className="font-display font-bold text-2xl gradient-text">
-                      Lumen
+                      BooksStore
                     </h3>
                     <p className="text-[9px] text-gray-500 tracking-[0.3em] uppercase">
                       Digital Library
@@ -144,7 +144,7 @@ export default function Footer() {
                       href="mailto:hello@lumen.com"
                       className="text-gray-400 hover:text-white"
                     >
-                      hello@lumen.com
+                      hello@ranjandev.com
                     </a>
                   </li>
                 </ul>
@@ -187,7 +187,7 @@ export default function Footer() {
           {/* Bottom Bar */}
           <div className="mt-14 pt-6 border-t border-white/5 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-gray-500">
             <p className="flex items-center gap-2">
-              © {new Date().getFullYear()} Lumen. Crafted with{" "}
+              © {new Date().getFullYear()} RanjanDev. All rights reserved{" "}
               <Heart className="w-3.5 h-3.5 text-red-500 fill-red-500 animate-pulse" />{" "}
               by readers, for readers.
             </p>

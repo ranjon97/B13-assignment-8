@@ -68,7 +68,7 @@ export default function Navbar() {
             </div>
             <div className="flex flex-col leading-none">
               <span className="font-display font-bold text-xl gradient-text">
-                Lumen
+                BookStore
               </span>
               <span className="text-[9px] text-gray-500 tracking-[0.3em] uppercase hidden sm:block mt-0.5">
                 Digital Library

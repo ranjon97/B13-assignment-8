@@ -2,7 +2,7 @@ import "./globals.css";
 import { Toaster } from "react-hot-toast";
 
 export const metadata = {
-  title: "Lumen — Digital Library Reimagined",
+  title: "NewBooks — Digital Library Reimagined",
   description:
     "A premium digital library experience with thousands of books at your fingertips. Modern, secure, and beautifully designed.",
   keywords: "digital library, books, ebooks, online library, modern library",

@@ -102,7 +102,7 @@ export default function Banner() {
                   <div className="absolute inset-0 flex flex-col items-center justify-center text-white p-6">
                     <Library className="w-16 h-16 mb-4 text-accent-300" />
                     <h3 className="font-display font-bold text-2xl mb-2 text-center gradient-text">
-                      Lumen
+                      BooksStore
                     </h3>
                     <p className="text-sm text-gray-400 text-center mb-4">
                       Digital Library
